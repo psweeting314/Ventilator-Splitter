@@ -13,7 +13,7 @@ Kits - Each complete kit should contain the following:
 
   4 ventilator endcaps
   
-Material - Petg or PLA 
+Material - Petg preferred PLA acceptable 
 
 
 Additional Specifications
