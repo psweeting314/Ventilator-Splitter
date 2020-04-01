@@ -12,7 +12,7 @@ Each complete kit should contain the following:
 | 2 | Four-way tree splitter |
 | 2 | Two-way Y splitter |
 | 1 | Male-to-female PVC adapter |
-| 1 | Male-to=male PVC adapter |
+| 1 | Male-to-male PVC adapter |
 | 4 | Ventilator endcaps |
 
 
