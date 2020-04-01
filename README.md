@@ -43,3 +43,13 @@ On 3/24/2020 received confirmation that it fits on ventilators at Albany Medical
 	   Designed by Philip Sweeting (PSS Innovations), with help from Brandon Weller and Garret Garner. 
 
 pssinnovationsllc@gmail.com
+
+During this trying medical emergency Keep Breathing NYC and PSS Innovations, LLC have provided this information to support the important work of doctors and hospital support staff. However, the information and plans provided are not a substitute for the experience and advice of licensed medical professionals.
+
+ALL INFORMATION AND PLANS PROVIDED ARE TO BE USED AT HEALTHCARE PROVIDERS’ AND HOSPITALS’ OWN RISK. THESE METHODS AND DEVICES REMAIN CLINICALLY UNTESTED AND ARE EXPERIMENTAL. THEY ARE NOT APPROVED BY THE FDA OR OTHER MEDICAL LICENSING BODIES. 
+
+This website is compiled from a variety of sources and is not considered complete. 
+
+This information is provided without any warranties, whether expressed or implied. Keep Breathing NYC and PSS Innovations, LLC, DISCLAIM ALL REPRESENTATIONS AND WARRANTIES, regarding any information or other material displayed, whether authored by the Keep Breathing NYC team or others.
+
+If you have a medical emergency, call your doctor immediately.
