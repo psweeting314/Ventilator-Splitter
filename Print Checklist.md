@@ -1,45 +1,37 @@
-# Ventilator-Splitter
-KEEP BREATHING - NYC
-3D Print Checklist 1.0
+# 3D Print Checklist 1.0
+KEEP BREATHING - NYC Ventilator-Splitter
 
 
-1. Kits - Each complete kit should contain the following:
 
-2 - Two way tree splitter
+## Kits
 
-2 - Two way Y splitter
+Each complete kit should contain the following:
 
-1 Male - Female PVC adapter
-
-1 Male - Male PVC adapter
-
-4 ventilator endcaps
-
-2. Material - Petg or PLA 
-
-3. Additional Specifications
-
-.3mm max layer height
-
-2 walls
-
-20% infill
-
-No supports
-
-seams exposed as opposed to hidden
-
-4. Additional instructions	/Tips
+| Qty | Item |
+|---|---|
+| 2 | Four-way tree splitter |
+| 2 | Two-way Y splitter |
+| 1 | Male-to-female PVC adapter |
+| 1 | Male-to=male PVC adapter |
+| 4 | Ventilator endcaps |
 
 
-5. Compare prints ID and OD with calipers to diagram to ensure that your tolerances
 
-Female/input/ID = 22.0mm (+0.2mm/-0.0mm)
+## Print Specifications
 
-Male/output ends/OD = 22.0mm (+0.0mm/-0.2mm)
+* Material: PETG or PLA 
+* 0.3 mm max layer height
+* 2 walls
+* 20% infill
+* No supports
+* Seams exposed as opposed to hidden
 
-6. If possible sterilize each piece with isopropanol 
+## Additional Instructions and Tips
 
-7. Place full kit into ziplock baggie
 
-8. Update inventory spreadsheet
+* Compare prints ID and OD with calipers to diagram to ensure that your tolerances
+	* Female/input/ID = 22.0mm (+0.2mm/-0.0mm)
+	* Male/output ends/OD = 22.0mm (+0.0mm/-0.2mm)
+* If possible, sterilize each piece with isopropanol 
+* Place full kit into Ziplock baggie
+* Update inventory spreadsheet
