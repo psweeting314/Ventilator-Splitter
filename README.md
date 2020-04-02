@@ -1,4 +1,9 @@
 # Ventilator-Splitter
+
+************************************************************************************************************************************
+ALL INFORMATION AND PLANS PROVIDED ARE TO BE USED AT HEALTHCARE PROVIDERS’ AND HOSPITALS’ OWN RISK. THESE METHODS AND DEVICES REMAIN CLINICALLY UNTESTED AND ARE EXPERIMENTAL. THEY ARE NOT APPROVED BY THE FDA OR OTHER MEDICAL LICENSING BODIES. 
+************************************************************************************************************************************
+
 A splitter and accessories for multiple patients to share a single ventilator
 
 Kits - Each complete kit should contain the following:
@@ -36,11 +41,11 @@ It is designed to be printed in PETG on an FDM 3D printer. On a Prusa i3 M3S it 
 
 As of 3/21/2020, this has been tested for dimensional accuracy on a Prusa i3 Mk3S and printability. This will be updated.
 On 3/22/2020, I added a 2 way splitter for ventilators which cannot support 4. I also added some Male-Male and Male-Female adapters so standard ½” pipe (PVC, copper), can be used. These are friction fit as of now, but PVC could be glued.
-On 3/24/2020 received confirmation that it fits on ventilators at Albany Medical College.
+On 3/24/2020 received confirmation that it fits on ventilators.
 
 	3/30/2020 Launched GitHub
 
-	   Designed by Philip Sweeting (PSS Innovations), with help from Brandon Weller and Garret Garner. 
+	   Designed by Philip Sweeting (PSS Innovations), with help from Garret Garner. 
 
 pssinnovationsllc@gmail.com
 
