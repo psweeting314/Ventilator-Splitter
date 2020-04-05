@@ -8,15 +8,11 @@ A splitter and accessories for multiple patients to share a single ventilator
 
 Kits - Each complete kit should contain the following:
 
-  2 - Two way tree splitter
-
   2 - Two way Y splitter
 
-  1 Male - Female PVC adapter
+  2 Male - Female PVC adapter
 
-  1 Male - Male PVC adapter
-
-  4 ventilator endcaps
+  2 Male - Male PVC adapter
   
 Material - Petg preferred PLA acceptable 
 
