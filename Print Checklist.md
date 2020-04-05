@@ -5,21 +5,19 @@ KEEP BREATHING - NYC [Ventilator-Splitter](https://github.com/psweeting314/Venti
 
 ## Kits
 
-Each complete kit should contain the following:
+Each complete kit 3.0 should contain the following:
 
 | Qty | Item |
 |:---|:---|
-| 2 | Four-way tree splitter |
 | 2 | Two-way Y splitter |
-| 1 | Male-to-female PVC adapter |
-| 1 | Male-to-male PVC adapter |
-| 4 | Ventilator endcaps |
+| 2 | Male-to-female PVC adapter |
+| 2 | Male-to-male PVC adapter |
 
 
 
 ## Print Specifications
 
-* Material: PETG or PLA 
+* Material: PETG preferred or PLA 
 * 0.3 mm max layer height
 * 2 walls
 * 20% infill
