@@ -9,7 +9,7 @@ Each complete kit 3.0 should contain the following:
 
 | Qty | Item |
 |:---|:---|
-| 2 | Two-way Y splitter |
+| 4 | Two-way Y splitter |
 | 2 | Male-to-female PVC adapter |
 | 2 | Male-to-male PVC adapter |
 
