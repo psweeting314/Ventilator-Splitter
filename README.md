@@ -8,7 +8,7 @@ A splitter and accessories for multiple patients to share a single ventilator
 
 Kits - Each complete kit should contain the following:
 
-  2 - Two way Y splitter
+  4 - Two way Y splitter
 
   2 Male - Female PVC adapter
 
